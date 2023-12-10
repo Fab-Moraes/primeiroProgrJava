@@ -5,5 +5,5 @@
 - Estrutura de Decisão
 - Controle
 
-#### Aprendi que o { }, representa o bloco em Java. E que todo final de instrução(linha) devo fecgar com ;
+#### Aprendi que o { }, representa o bloco em Java. E que todo final de instrução(linha) devo fechar com ;
 
